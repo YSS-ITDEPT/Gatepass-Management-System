@@ -1,4 +1,4 @@
-# Gatepass-Management-System
+![Screenshot 2023-10-11 160446](https://github.com/YSS-ITDEPT/Gatepass-Management-System/assets/138488546/054c4ddd-ec8e-4794-bfa0-6448fe9fc01c)# Gatepass-Management-System
 A Gatepass Management System, built with PHP, MySQL, HTML, CSS, JavaScript, and Bootstrap, efficiently tracks and authorizes entry/exit permissions, enhancing security and access control in various facilities.
 
-![Uploading Screenshot 2023-10-11 160446.png…]()
+![Screenshot 2023-10-11 160446](https://github.com/YSS-ITDEPT/Gatepass-Management-System/assets/138488546/71e48ed5-7dd9-404d-b8d3-375c787aa34a)
